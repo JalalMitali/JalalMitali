@@ -16,7 +16,7 @@ Note 2 : ( Technology Used `MongoDB` / `AWS` / `Docker` / `Firebase` / `Postgres
 ---
 **Backend Version ( Server Side ) :**
 --
-[Back End - NestJS Version ](https://github.com/JalalMitali/NextShop)
+[Back End - NestJS Version ](https://github.com/JalalMitali/NestShop)
 --
 [Back End - Spring Version ](https://github.com/JalalMitali/SpringShop)
 --
