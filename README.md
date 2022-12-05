@@ -1,8 +1,11 @@
 Hey  There 👋
 ---
-I am currently working on several e-commerce implementations for both backend and front end in various languages, you can check them out from here :
+I am currently working on several e-commerce implementations for both backend and front end in various languages, you can check them out here :
+--
 Note 1 : ( All Versions Include `Stripe Payments`, `Unit Testing` , `Authentication` & More! ) 
+--
 Note 2 : ( Technology Used `MongoDB` / `AWS` / `Docker` / `Firebase` / `Postgres` )
+--
 **Front End ( Client Side Sites ) :**
 [Front End - NextJS Version ](https://github.com/JalalMitali/NextShop)
 --
@@ -28,3 +31,4 @@ Note 2 : ( Technology Used `MongoDB` / `AWS` / `Docker` / `Firebase` / `Postgres
 [ Swift - iOS Swift UI ](https://github.com/JalalMitali/SwiftShop)
 ---
 Stay Tuned!
+Jalal Mitali
